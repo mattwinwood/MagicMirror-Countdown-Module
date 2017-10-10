@@ -1,0 +1,17 @@
+.countdown ul {
+margin: 0;
+padding: 0;
+}
+.countdown ul li {
+margin: 20px 0;
+}
+.countdown_description {
+    display: inline-block;
+}
+
+.countdown_date {
+    font-weight: 700;
+    display: inline-block;
+    font-size: 72px;
+    margin-right: 10px;
+}
