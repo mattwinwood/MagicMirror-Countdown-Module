@@ -2,6 +2,7 @@
 Counts down from one or many dates set in the future.
 
 ##Example
+
 {
     module: 'countdown',
     position: 'top_left',
